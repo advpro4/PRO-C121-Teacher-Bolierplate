@@ -1,3 +1,4 @@
+#TASK 1: To Access Webcam using OpenCV:
 import cv2
 
 cap = cv2.VideoCapture(0)
